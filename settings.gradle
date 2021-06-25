@@ -1,0 +1,2 @@
+rootProject.name = "MapboxAssignment"
+include ':app'
